@@ -31,7 +31,7 @@ const fragment3 = [
 ];
 const fragment4 = [
     'of our financial and administrative goals.',
-    'of basic politics toward the success of the program.',
+    'of basic policies toward the success of the program.',
     'of specific conditions for each business.',
     'of our team building potential.',
     'of the government attributions.',
